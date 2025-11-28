@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CollegeBackups">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/offline/CollegeBackups/ALL DEPARTMENTS_Backup_20251019_191105.zip!/" />
+      <root url="jar://$PROJECT_DIR$/offline/CollegeBackups/Finance_Backup_20251019_181643.zip!/" />
+      <root url="jar://$PROJECT_DIR$/offline/CollegeBackups/Finance_Backup_20251019_190819.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
